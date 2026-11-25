@@ -33,6 +33,7 @@ Source: https://contributors.md/
 
 - Aziz Khan
 - Shamsah Aldhanhani
- 
+- Haroun Adebakin
+- Cristina Correa Segade
 
 
