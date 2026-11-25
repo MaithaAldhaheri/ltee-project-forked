@@ -31,7 +31,5 @@ Source: https://contributors.md/
 
 ## List of contributors
 
-- Aziz Khan
-- 
-
-
+- AZIZ KHAN
+- JAWAHER BASALMA 
